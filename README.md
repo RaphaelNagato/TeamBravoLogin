@@ -1,8 +1,19 @@
 # TeamBravoLogin
 
+Team Bravo login and signin page repository.
+
+## Link to Lucid blog
+
+https://lucid.blog/dkehinde93/post/hng-internship-team-bravo-8bd
+
+## Link to Live app
+
+http://teambravo.afroblogit.com/
+
 # Contributions
 
-*The images used are not from this repository, it is there to make you understand how to go about contributing*
+_The images used are not from this repository, it is there to make you understand how to go about contributing_
+
 ## Fork the repository
 
 go to https://github.com/RaphaelNagato/TeamBravoLogin , fork the repository by clicking on the _fork_ button at the top of the page,
@@ -59,10 +70,9 @@ _CONGRATS ON YOUR CONTRIBUTION!!!_
 
 ## What next?
 
-
 # Keep forked repository in sync
 
-*The images used are not from this repository, it is there to make you understand how to go about updating your repo*
+_The images used are not from this repository, it is there to make you understand how to go about updating your repo_
 
 _After Forking and cloning your repository, you start contributing to the main repository and after a while, you notice that your forked repository and the upstream repository are not in sync anymore, usually noticed when your branch have conflicts with the main branch. This guide will make you get the current version of the upstream repository._
 
@@ -95,4 +105,3 @@ After the previous step, if you type the command `git status` , you should get a
 This is because, you have only updated your local repository, to update your remote repository, that is the one on GitHub,you will have to use `git push` command i.e `git push -u origin master`.
 
 refreshing your remote repository on GitHub should show that your `branch` is even with `RaphaelNagato:master`.
-
