@@ -4,7 +4,7 @@ Team Bravo login and signin page repository.
 
 ## Link to Lucid blog
 
-https://lucid.blog/dkehinde93/post/hng-internship-team-bravo-8bd
+https://lucid.blog/dkehinde93/post/hng-internship-team-bravo-eef
 
 ## Link to Live app
 
